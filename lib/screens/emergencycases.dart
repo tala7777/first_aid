@@ -1,4 +1,3 @@
-import 'package:first_aid/screens/home.dart';
 import 'package:flutter/material.dart';
 import 'emergencies/emergencycase1.dart';
 import 'emergencies/emergencycase2.dart';

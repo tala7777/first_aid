@@ -13,7 +13,7 @@ import 'package:first_aid/screens/home.dart';
 import 'package:first_aid/screens/contacts/profile.dart';
 import 'package:first_aid/screens/savedcase.dart';
 import 'package:first_aid/screens/emergencycases.dart';
-import '../screens/Allcontacts.dart';
+import 'screens/Allcontacts.dart';
 void main() {
   runApp(const MyApp());
 }

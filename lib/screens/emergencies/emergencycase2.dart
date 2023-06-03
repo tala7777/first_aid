@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:first_aid/helpers/main.dart';
+import 'package:first_aid/main.dart';
 import 'package:first_aid/screens/home.dart';
 
 class Two extends StatefulWidget {

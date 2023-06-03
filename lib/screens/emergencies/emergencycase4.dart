@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:first_aid/screens/home.dart';
 
 class Four extends StatefulWidget {
   static String route = "6";
